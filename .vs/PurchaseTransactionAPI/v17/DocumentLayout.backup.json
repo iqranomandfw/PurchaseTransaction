@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\services\\treasuryexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\services\\treasuryexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\services\\itreasuryexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\services\\itreasuryexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\models\\purchasetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\models\\purchasetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\migrations\\20260518053408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\migrations\\20260518053408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\dtos\\purchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\dtos\\purchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\dtos\\createpurchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\dtos\\createpurchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\dtos\\convertedpurchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\dtos\\convertedpurchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ABF30A-85FE-4D8F-A109-567E7F159C08}|PurchaseTransactionAPI.Tests\\PurchaseTransactionAPI.Tests.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi.tests\\purchasescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ABF30A-85FE-4D8F-A109-567E7F159C08}|PurchaseTransactionAPI.Tests\\PurchaseTransactionAPI.Tests.csproj|solutionrelative:purchasetransactionapi.tests\\purchasescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ABF30A-85FE-4D8F-A109-567E7F159C08}|PurchaseTransactionAPI.Tests\\PurchaseTransactionAPI.Tests.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ABF30A-85FE-4D8F-A109-567E7F159C08}|PurchaseTransactionAPI.Tests\\PurchaseTransactionAPI.Tests.csproj|solutionrelative:purchasetransactionapi.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|c:\\users\\ds-nofal\\source\\repos\\purchasetransactionapi\\purchasetransactionapi\\purchasetransactionapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B018A1D5-3E84-4F14-943A-95DF13CB5AD1}|PurchaseTransactionAPI\\PurchaseTransactionAPI.csproj|solutionrelative:purchasetransactionapi\\purchasetransactionapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreasuryExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Services\\TreasuryExchangeRateService.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Services\\TreasuryExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Services\\TreasuryExchangeRateService.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Services\\TreasuryExchangeRateService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:41:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITreasuryExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Services\\ITreasuryExchangeRateService.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Services\\ITreasuryExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Services\\ITreasuryExchangeRateService.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Services\\ITreasuryExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:41:15.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Models\\PurchaseTransaction.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Models\\PurchaseTransaction.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Models\\PurchaseTransaction.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Models\\PurchaseTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:41:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:42.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260518053408_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Migrations\\20260518053408_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Migrations\\20260518053408_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Migrations\\20260518053408_InitialCreate.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Migrations\\20260518053408_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:40.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\PurchaseResponse.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\DTOs\\PurchaseResponse.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\PurchaseResponse.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\DTOs\\PurchaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:26.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePurchaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\CreatePurchaseRequest.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\DTOs\\CreatePurchaseRequest.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\CreatePurchaseRequest.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\DTOs\\CreatePurchaseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConvertedPurchaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\ConvertedPurchaseResponse.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\DTOs\\ConvertedPurchaseResponse.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\DTOs\\ConvertedPurchaseResponse.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\DTOs\\ConvertedPurchaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:19.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:40:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\Controllers\\PurchasesController.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI\\Controllers\\PurchasesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:38:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurchasesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI.Tests\\PurchasesControllerTests.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI.Tests\\PurchasesControllerTests.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI.Tests\\PurchasesControllerTests.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI.Tests\\PurchasesControllerTests.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:38:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "PurchaseTransactionAPI.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:37:48.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PurchaseTransactionAPI.http",
+              "DocumentMoniker": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\PurchaseTransactionAPI.http",
+              "RelativeDocumentMoniker": "PurchaseTransactionAPI\\PurchaseTransactionAPI.http",
+              "ToolTip": "C:\\Users\\DS-Nofal\\source\\repos\\PurchaseTransactionAPI\\PurchaseTransactionAPI\\PurchaseTransactionAPI.http",
+              "RelativeToolTip": "PurchaseTransactionAPI\\PurchaseTransactionAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T05:37:42.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
